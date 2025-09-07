@@ -2,7 +2,7 @@
 
 This is a template for creating applications using Next.js 14 (app directory) and HeroUI (v2).
 
-[Try it now]([https://emyen.vercel.app/])
+[Try it now](https://emyen.vercel.app/)
 
 ## Technologies Used
 
